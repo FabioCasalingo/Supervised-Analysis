@@ -1,1 +1,2 @@
-Country Segmentation based on Pollution and Energy Production: An Unsupervised Analysis
+# Unsupervised-Analysis
+Predictive Modeling of Loan Approval: A Supervised Learning Approach Using Customer Data
